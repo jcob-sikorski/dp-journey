@@ -14,7 +14,7 @@
 // [T, F, F, F, F, F, F, F]
 
 
-const canIter = (targetNum, seq) => {
+const canSumIter = (targetNum, seq) => {
   const array = Array(targetNum + 1).fill(false);
 
   array[0] = true;
