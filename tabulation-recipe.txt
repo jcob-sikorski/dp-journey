@@ -1,0 +1,7 @@
+1. visualize the problem as a table
+2. size the table based on inputs
+3. init the table with default values
+4. seed the trivial answer into the table
+5. come up with logic for table iteration
+6. come up with logic for filling furhter positions
+   based on the current position
