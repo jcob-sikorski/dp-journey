@@ -15,10 +15,9 @@ const countConstruct = (target, wordBank) => {
   for (let word of wordBank) {
     if (target.length >= word.length && target.endsWith(word)) {
       const newTarget = target.slice(0, -word.length);
+      const numWaysForRest = countConstructMemo(newTarget, wordBank, memo);
 
-      if (countConstruct(newTarget, wordBank) > 0) {
-        sum += 1;
-      }
+      sum += numWaysForRest;
     }
   }
 
