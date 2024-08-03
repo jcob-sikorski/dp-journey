@@ -4,7 +4,7 @@ This repository documents my journey through dynamic programming (DP), tackling 
 
 ## Goals
 
-1. Complete the [Dynamic Programming course](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+1. Complete the [Dynamic Programming course](https://www.youtube.com/watch?v=oBt53YbR9Kk) ✅
 2. Move on to [Grokking Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-a-deep-dive-using-python)
 3. Apply acquired knowledge to solve LeetCode problems
 
